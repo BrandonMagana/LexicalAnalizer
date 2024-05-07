@@ -2,7 +2,7 @@
 This is a simple lexical analyzer implemented using Lex. Lex is a lexical analyzer generator used to create lexical analyzers and scanners.
 
 ## Homework 
-Name: Brandon Josue Magaña Mendoza 
+Name: Brandon Josue Magaña Mendoza  
 Student_id: A01640162
 
 
